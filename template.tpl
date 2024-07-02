@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "ActionSpeak Make Popup Tag",
+  "categories": ["ANALYTICS", "CONVERSIONS", "MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
