@@ -1,0 +1,9 @@
+name: actionSpeak
+description: A SaaS service that allows users to easily create and manage pop-ups on their websites.
+homepage: "https://www.actionspeak.kr/"
+version: 1.0.0
+author:
+  name: cho hae chang
+  email: outofchng@gmail.com
+license: Apache-2.0
+
