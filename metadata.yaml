@@ -2,9 +2,9 @@ homepage: "https://www.actionspeak.kr/"
 documentation: "https://github.com/Funbucket/actionspeak-gtm-template/blob/main/README.md"
 versions:
   - sha: 6581b7ccb1b3159c1e6624ad61a80c826c374f63
-    changeNotes: Update template.tpl: add category
+    changeNotes: Update template.tpl - add category
   - sha: b4b10ce5d9ae41dd98478ed39ef7e6222600e1c4
-    changeNotes: Update template.tpl: add category
+    changeNotes: Update template.tpl - add category
   - sha: 44a026ffae3d5459cfb61fe0148e6f887374ca2c
     changeNotes: Initial Version
 
